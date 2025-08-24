@@ -37,12 +37,3 @@ This project showcases a professional website layout that includes all the key s
 If you’re interested in custom website development:  
 - **Email:** samraazhar57@gmail.com 
 
-
-
-
-
-
-
-
-
-Ask ChatGPT
